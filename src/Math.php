@@ -6,7 +6,7 @@ class Math
 {
     public static function add($a, $b)
     {
-        return $a + $b;
+        return $a + $b + 2;
     }
 
     public static function subtract($a, $b)
